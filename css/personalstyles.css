@@ -1,0 +1,85 @@
+.nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(249, 232, 232);
+    margin-bottom: 50px;
+}
+
+.nav:hover{
+    text-transform: uppercase;
+    color: lightsalmon;
+}
+
+a:visited{
+    color: lightblue;
+}
+
+body{
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: beige;
+}
+
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-style: bold;
+    text-transform: uppercase;
+    color: lightsalmon;
+}
+
+.subtitle{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    text-transform: uppercase;
+    color: rgb(136, 202, 195);
+}
+
+.li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    color: bisque;
+    text-transform: none;
+
+}
+
+.food{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: darkseagreen;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.extra{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(249, 232, 232);
+    margin-bottom: 50px;
+    text-align: center;
+} 
+
+.graph {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+section {
+    margin-bottom: 75px
+}
+
